@@ -1,2 +1,0 @@
-# EsercizioCRUD
-Esercizio CRUD/MAVEN
